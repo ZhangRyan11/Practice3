@@ -1,5 +1,5 @@
 
-public class TicTacToeBoard {
+public class TicTacToeBoard { //ok
 	public static final char UNSET = '_';
 	private char[][] board = new char[3][3];
 	
